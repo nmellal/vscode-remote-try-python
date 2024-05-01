@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/0/adb7bbaeb179486a8c97c04023be14ac/artifacts
+end_time: 1714572251424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adb7bbaeb179486a8c97c04023be14ac
+run_name: vaunted-loon-51
+run_uuid: adb7bbaeb179486a8c97c04023be14ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714572249799
+status: 3
+tags: []
+user_id: vscode

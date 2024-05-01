@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/0/237a9213130c4441bf9929e9a73432d3/artifacts
+end_time: 1714554258634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 237a9213130c4441bf9929e9a73432d3
+run_name: crawling-kit-622
+run_uuid: 237a9213130c4441bf9929e9a73432d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714554257353
+status: 3
+tags: []
+user_id: vscode

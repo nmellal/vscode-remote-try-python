@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/vscode-remote-try-python/mlruns/727712779979535883
+creation_time: 1714555141940
+experiment_id: '727712779979535883'
+last_update_time: 1714555141940
+lifecycle_stage: active
+name: /mlflow_test/elasticnet_wine

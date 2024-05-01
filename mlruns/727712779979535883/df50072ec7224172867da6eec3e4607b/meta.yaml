@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/727712779979535883/df50072ec7224172867da6eec3e4607b/artifacts
+end_time: 1714555143949
+entry_point_name: ''
+experiment_id: '727712779979535883'
+lifecycle_stage: active
+run_id: df50072ec7224172867da6eec3e4607b
+run_name: wistful-ant-824
+run_uuid: df50072ec7224172867da6eec3e4607b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714555142588
+status: 3
+tags: []
+user_id: vscode

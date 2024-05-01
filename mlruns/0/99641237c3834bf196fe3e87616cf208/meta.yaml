@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/0/99641237c3834bf196fe3e87616cf208/artifacts
+end_time: 1714554256722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99641237c3834bf196fe3e87616cf208
+run_name: selective-flea-556
+run_uuid: 99641237c3834bf196fe3e87616cf208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714554255351
+status: 3
+tags: []
+user_id: vscode

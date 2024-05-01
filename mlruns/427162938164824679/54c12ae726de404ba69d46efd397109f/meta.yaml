@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/427162938164824679/54c12ae726de404ba69d46efd397109f/artifacts
+end_time: 1714555648657
+entry_point_name: ''
+experiment_id: '427162938164824679'
+lifecycle_stage: active
+run_id: 54c12ae726de404ba69d46efd397109f
+run_name: apples_rf_test
+run_uuid: 54c12ae726de404ba69d46efd397109f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714555646508
+status: 3
+tags: []
+user_id: vscode

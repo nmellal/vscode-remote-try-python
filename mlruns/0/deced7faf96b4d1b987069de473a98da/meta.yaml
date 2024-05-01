@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/0/deced7faf96b4d1b987069de473a98da/artifacts
+end_time: 1714554073378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deced7faf96b4d1b987069de473a98da
+run_name: tasteful-ray-690
+run_uuid: deced7faf96b4d1b987069de473a98da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714554071474
+status: 3
+tags: []
+user_id: vscode

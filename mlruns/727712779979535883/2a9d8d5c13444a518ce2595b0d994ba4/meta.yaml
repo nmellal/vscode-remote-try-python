@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/727712779979535883/2a9d8d5c13444a518ce2595b0d994ba4/artifacts
+end_time: 1714555147840
+entry_point_name: ''
+experiment_id: '727712779979535883'
+lifecycle_stage: active
+run_id: 2a9d8d5c13444a518ce2595b0d994ba4
+run_name: sneaky-quail-493
+run_uuid: 2a9d8d5c13444a518ce2595b0d994ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714555146540
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/vscode-remote-try-python/mlruns/0/5d3f6b27322d4443b979d2a8683b8811/artifacts
+end_time: 1714554260534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d3f6b27322d4443b979d2a8683b8811
+run_name: capricious-foal-148
+run_uuid: 5d3f6b27322d4443b979d2a8683b8811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714554259266
+status: 3
+tags: []
+user_id: vscode
